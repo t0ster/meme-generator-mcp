@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meme-generator": {
+      "command": "uv",
+      "args": ["run", "meme-generator-mcp", "--dev"]
+    }
+  }
+}

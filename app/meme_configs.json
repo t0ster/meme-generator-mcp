@@ -1,0 +1,47 @@
+{
+  "hide_the_pain_harold": {
+    "template_file": "hide_the_pain_harold.jpg",
+    "placeholders": {
+      "top_text": {"x": 600, "y": 20, "max_width": 600, "align": "center"},
+      "bottom_text": {"x": 702, "y": 800, "max_width": 600, "align": "center"}
+    }
+  },
+  "distracted_boyfriend": {
+    "template_file": "distracted_boyfriend.jpg",
+    "placeholders": {
+      "current_thing": {"x": 1000, "y": 100, "max_width": 180, "align": "center"},
+      "new_thing": {"x": 350, "y": 50, "max_width": 180, "align": "center"},
+      "person_choosing": {"x": 660, "y": 20, "max_width": 180, "align": "center"}
+    }
+  },
+  "drake_pointing": {
+    "template_file": "drake_pointing.jpg",
+    "placeholders": {
+      "disapprove": {"x": 530, "y": 100, "max_width": 200, "align": "center"},
+      "approve": {"x": 530, "y": 460, "max_width": 200, "align": "center"}
+    }
+  },
+  "woman_yelling_at_cat": {
+    "template_file": "woman_yelling_at_cat.jpg",
+    "placeholders": {
+      "woman_text": {"x": 180, "y": 4, "max_width": 250, "align": "center", "font_size": 24},
+      "cat_text": {"x": 520, "y": 4, "max_width": 180, "align": "center", "font_size": 24}
+    }
+  },
+  "this_is_fine": {
+    "template_file": "this_is_fine.jpg",
+    "placeholders": {
+      "top_text": {"x": 144, "y": 10, "max_width": 280, "align": "center", "stroke_width": 2, "font_size": 18},
+      "bottom_text": {"x": 435, "y": 230, "max_width": 280, "align": "center", "stroke_width": 2, "font_size": 18}
+    }
+  },
+  "expanding_brain": {
+    "template_file": "expanding_brain.jpg",
+    "placeholders": {
+      "small_brain": {"x": 250, "y": 106, "max_width": 400, "align": "center"},
+      "medium_brain": {"x": 250, "y": 438, "max_width": 400, "align": "center"},
+      "large_brain": {"x": 250, "y": 770, "max_width": 400, "align": "center"},
+      "galaxy_brain": {"x": 250, "y": 1112, "max_width": 400, "align": "center"}
+    }
+  }
+}
