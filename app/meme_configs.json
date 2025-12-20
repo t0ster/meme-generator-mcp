@@ -17,8 +17,8 @@
   "drake_pointing": {
     "template_file": "drake_pointing.jpg",
     "placeholders": {
-      "disapprove": {"x": 530, "y": 100, "max_width": 200, "align": "center"},
-      "approve": {"x": 530, "y": 460, "max_width": 200, "align": "center"}
+      "disapprove": {"x": 530, "y": 100, "max_width": 200, "align": "center", "font_size": 32, "fill": "black", "stroke_fill": "white"},
+      "approve": {"x": 530, "y": 460, "max_width": 200, "align": "center", "font_size": 32, "fill": "black", "stroke_fill": "white"}
     }
   },
   "woman_yelling_at_cat": {
@@ -49,6 +49,14 @@
     "placeholders": {
       "top_text": {"x": 400, "y": 20, "max_width": 750, "align": "center"},
       "bottom_text": {"x": 400, "y": 400, "max_width": 750, "align": "center"}
+    }
+  },
+  "two_buttons": {
+    "template_file": "two_buttons.jpg",
+    "placeholders": {
+      "left_button": {"x": 140, "y": 80, "max_width": 140, "align": "center", "font_size": 24, "fill": "black", "stroke_fill": "white"},
+      "right_button": {"x": 320, "y": 50, "max_width": 140, "align": "center", "font_size": 24, "fill": "black", "stroke_fill": "white"},
+      "person": {"x": 265, "y": 720, "max_width": 400, "align": "center", "font_size": 28}
     }
   }
 }
