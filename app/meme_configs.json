@@ -43,5 +43,12 @@
       "large_brain": {"x": 250, "y": 770, "max_width": 400, "align": "center"},
       "galaxy_brain": {"x": 250, "y": 1112, "max_width": 400, "align": "center"}
     }
+  },
+  "one_does_not_simply": {
+    "template_file": "one_does_not_simply.jpg",
+    "placeholders": {
+      "top_text": {"x": 400, "y": 20, "max_width": 750, "align": "center"},
+      "bottom_text": {"x": 400, "y": 400, "max_width": 750, "align": "center"}
+    }
   }
 }
